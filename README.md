@@ -1,6 +1,6 @@
 <h1>Blog RESTful API</h1>  
 
-<p>This repository contains a blog application built using a RESTful API. The API enables users to create, read, update, and delete blog posts, providing a complete content management experience. The project was developed using <strong>Spring Boot using IntelliJ IDEA</strong> and has been tested and documented using Postman.</p>  
+<p>This repository contains a blog application built using a RESTful API. The API enables users to create, read, update, and delete blog posts, providing a complete content management experience. The project was developed using <strong>Spring Boot using Maven Workflow within IntelliJ IDEA</strong> and has been tested and documented using Postman.</p>  
 
 <h2>Features</h2>  
 <ul>  
